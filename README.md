@@ -1,4 +1,4 @@
-### Hi there 👋  ㅇ
+### Hi there 👋
 
 <!--
 **tkdrms4585/tkdrms4585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
